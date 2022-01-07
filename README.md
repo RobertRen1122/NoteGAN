@@ -1,2 +1,2 @@
 # Daisy Intelligence Hackathon 2022
-Group Members: Robert Ren NB, Mark Zhao, Lindy Zhai
+Group Members: Robert Ren, Mark Zhao, Lindy Zhai
