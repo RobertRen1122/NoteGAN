@@ -21,7 +21,7 @@ We would like to have a "note-beautifier"
     * Style transfer should be **ONE-TO-ONE**
 
 ### Product
-1. Take in image of any size and produce an image (of the same size) with 'beautified' text.  
+1. Take in image of any size and produce an image (of the same size) with 'beautified' text. (MVP)
 
 ### Note
 * MVP - Minimum Viable Product
