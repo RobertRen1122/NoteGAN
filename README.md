@@ -4,7 +4,7 @@ Group Members: Robert Ren, Mark Zhao, Lindy Zhai
 ![alt text](https://github.com/RobertRen1122/daisy2022/blob/909424d4ef86f9603cdddcd1aeceb3a77bb73e68/endpage.png)
 
 ## Goal
-We would like to have a "note-beautifier". Essentially, this GAN based algorithm will take user's handing writing as input (likely in the form of an image, such as jpeg, png, etc). Then each alphabet will be "beautified" individually. This step involves segmenting alphabet out from image while recognizing it. After retreiving the output from the GAN algorithms, this output in the form of an image will be resized to fit in the original document.
+We would like to have a "note-beautifier". Essentially, this GAN based algorithm will take user's hand writing as input (likely in the form of an image, such as jpeg, png, etc). Then each alphabet will be "beautified" individually. This step involves segmenting alphabet out from image while recognizing it, then the segmented letter is being inputted to the GAN algorithms. After retreiving the output from GAN, this output in the form of an image will be resized to fit in the original document.
 
 ## Background
 As students, all of our team members agree that notetaking is not our strengths. This consensus comes from our not-so-good handwriting, as well as our gradual lost of patience once we found good electronic substitute. However, recognizing that keeping notes is an important part of academic learning, we would like to work on a ML project that could improve our inefficient learning and handwriting habits.
