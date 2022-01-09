@@ -7,7 +7,9 @@ Group Members: Robert Ren, Mark Zhao, Lindy Zhai
 We would like to have a "note-beautifier". Essentially, this GAN based algorithm will take user's handing writing as input (likely in the form of an image, such as jpeg, png, etc). Then each alphabet will be "beautified" individually. This step involves segmenting alphabet out from image while recognizing it. After retreiving the output from the GAN algorithms, this output in the form of an image will be resized to fit in the original document.
 
 ## Background
-As students, all of our team members agree that notetaking is not our strengths. This consensus comes from our not-so-good handwriting, as well as our gradual lost of patience once we found good electronic substitute.  
+As students, all of our team members agree that notetaking is not our strengths. This consensus comes from our not-so-good handwriting, as well as our gradual lost of patience once we found good electronic substitute. However, recognizing that keeping notes is an important part of academic learning, we would like to work on a ML project that could improve our inefficient learning and handwriting habits.
+
+Plus, we thought it would be so much fun to work on a GAN project :)
 
 
 ## Tasks
@@ -30,8 +32,10 @@ As students, all of our team members agree that notetaking is not our strengths.
 
 ### Product
 1. Take in image of any size and produce an image (of the same size) with 'beautified' text. (MVP)
-2. Compare generated text with ideal font.
+2. Compare generated text with ideal font using similarity measurements.
 3. Replace the original text with generated text.
+
+* Note that we have complete codes for every part of the product, but due to tight time constraints, we have not yet linked all py files together. However, feel still feel free to check out the functionality of the different parts of our design
 
 ### Note
 * MVP - Minimum Viable Product
