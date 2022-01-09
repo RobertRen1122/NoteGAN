@@ -14,16 +14,13 @@ We would like to have a "note-beautifier"
     * Standardize the size of each bouding box to a square/rectangle.
 2. (DONE) Transfer the image to black and white scale.
 3. (OPTIONAL) Replace the 'beautified' text on to the original image. (MVP)
-4. Process EMNIST Dataset
+4. Process EMNIST Dataset **(Mark)**
     * By class, 0-9, a-z, A-Z.
     * Write a function to convert data from csv to images (for training)
 
 ### Training
-1. Apply style transfer. (MVP)
-    * Input and output should be of the same size.
-    * Style transfer should be **ONE-TO-ONE**.
-2. Go through cGAN.
-3. Apply cGAN to preprocessed data.
+1. Go through cGAN.
+2. Apply cGAN to preprocessed data.
 
 ### Product
 1. Take in image of any size and produce an image (of the same size) with 'beautified' text. (MVP)
