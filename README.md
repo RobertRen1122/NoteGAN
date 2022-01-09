@@ -24,8 +24,8 @@ Plus, we thought it would be so much fun to work on a GAN project :)
 2. ~(DONE) Transfer the image to black and white scale.~
 3. ~(OPTIONAL) Replace the 'beautified' text on to the original image.~
 4. ~(DONE) Process EMNIST Dataset (Mark & Lindy)(MVP)~
-    * By class, 0-9, a-z, A-Z.
-    * Write a function to convert data from csv to images (for training)
+    * ~By class, 0-9, a-z, A-Z.~
+    * ~Write a function to convert data from csv to images (for training)~
 
 ### Training
 1. ~(DONE)Go through cGAN. (Robert)~
