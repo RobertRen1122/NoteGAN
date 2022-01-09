@@ -15,7 +15,7 @@ We would like to have a "note-beautifier"
 2. (DONE) Transfer the image to black and white scale.
 3. (OPTIONAL) Replace the 'beautified' text on to the original image. (MVP)
 4. Process EMNIST Dataset
-    * By class, 0-9, a-z, A-Z
+    * By class, 0-9, a-z, A-Z.
     * Write a function to convert data from csv to images (for training)
 
 ### Training
@@ -28,7 +28,7 @@ We would like to have a "note-beautifier"
 ### Product
 1. Take in image of any size and produce an image (of the same size) with 'beautified' text. (MVP)
 2. Compare generated text with ideal font.
-3. Replace the generated text with generated text.
+3. Replace the original text with generated text.
 
 ### Note
 * MVP - Minimum Viable Product
