@@ -6,14 +6,14 @@ We would like to have a "note-beautifier"
 
 ## Tasks
 ### Pre-req
-1. (DONE) GAN style-transfer example (Robert)
+1. ~(DONE) GAN style-transfer example (Robert)~
 
 ### Preprocessing
-1. (DONE) Segment each alphabet from a word, know which alphabet it is. (MVP) (Mark & Lindy)
-    * Get the coordinate of each alphabet with respect to each text.
-    * Standardize the size of each bouding box to a square/rectangle.
-2. (DONE) Transfer the image to black and white scale.
-3. (OPTIONAL) Replace the 'beautified' text on to the original image. (MVP)
+1. ~(DONE) Segment each alphabet from a word, know which alphabet it is. (MVP) (Mark & Lindy)~
+    * ~Get the coordinate of each alphabet with respect to each text.~
+    * ~Standardize the size of each bouding box to a square/rectangle.~
+2. ~(DONE) Transfer the image to black and white scale.~
+3. ~(OPTIONAL) Replace the 'beautified' text on to the original image. (MVP)~
 4. Process EMNIST Dataset **(Mark & Lindy)**
     * By class, 0-9, a-z, A-Z.
     * Write a function to convert data from csv to images (for training)
