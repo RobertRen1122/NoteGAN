@@ -1,6 +1,8 @@
 # Daisy Intelligence Hackathon 2022
 Group Members: Robert Ren, Mark Zhao, Lindy Zhai
 
+endpage.png
+
 ## Goal
 We would like to have a "note-beautifier". Essentially, this GAN based algorithm will take user's handing writing as input (likely in the form of an image, such as jpeg, png, etc). Then each alphabet will be "beautified" individually. This step involves segmenting alphabet out from image while recognizing it.  
 
