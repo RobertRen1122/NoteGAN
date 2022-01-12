@@ -1,5 +1,5 @@
 # Daisy Intelligence Hackathon 2022 **2nd place !!!**
-Group Members: Robert Ren, Mark Zhao, Lindy Zhai  
+Group Members: [Robert Ren](https://github.com/RobertRen1122), [Mark Zhao](https://github.com/markyyds), [Lindy Zhai](https://github.com/LindyZh)  
 **Checkout the `daisy_sol_final.ipynb` for our work in only 24 hours!**
 
 ![alt text](https://github.com/RobertRen1122/daisy2022/blob/909424d4ef86f9603cdddcd1aeceb3a77bb73e68/endpage.png)
